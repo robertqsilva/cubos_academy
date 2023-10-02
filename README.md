@@ -1,31 +1,48 @@
-# Desenvolvimento de software backend
+# Desenvolvimento de Software Backend
 
 ## Informações
 
-Esse Repositorio armazena todos os conteudos estudados durante o curso de desenvolvimento de software da cubos academy.
+Este repositório armazena todos os conteúdos estudados durante o curso de Desenvolvimento de Software da Cubos Academy.
 
-## Modulo I 
+## Módulo I
 
-### O Modulo I consiste no estudo de logica de programação
+O Módulo I consiste no estudo de lógica de programação. Durante este módulo, foram abordados diversos tópicos e exercícios práticos, incluindo:
 
-Nesse modulo foi focado no estudo de logica de programação e nele ha diverso exercios realizados, detre eles:
+- Variáveis
+- Condicionais
+   - Operadores Lógicos
+   - Operadores Aritmeticos
+   - Operadores de Comparação
+   - Operadores de Igualdade
+   - Operadores de Identidade
+- Tipos de Dados
+- Escopo de Variáveis (Local e Global)
+- Arrays
+- Estruturas de Repetição (loops)
+- Objetos
+- Destruturação de Objetos
+- Funções
+   - Parâmetros e Retorno de Funções
+   - Funções Anônimas
+   - Arrow Function
+   - Funções de Ordem Superior (Callbacks)
+- Métodos de String
+- Métodos de Arrays
+- Manipulação de Data e Hora
 
-. Variaveis
-. Condicionais
-. Tipos de Dados
-. Arrays
-. Esrutura de repetição ( loops)
-. Objetos
-. Desetruturação de objeto
-. Funções
-. Metodos de String
-. Metodos de Arrays 
-. Conceito de Callbacks
+### Tecnologias Estudadas no Módulo I
 
+Durante o Módulo I, também foram exploradas algumas tecnologias essenciais para o desenvolvimento de software, tais como:
 
-### Tecnologias estudada no mudulo I
+- Git (Controle de Versão)
+   - Branches
+   - Merge
+   - Rebase
+   - Resolução de Conflitos
+- GitHub (Plataforma de Hospedagem de Código)
+- Node.js (Ambiente de Execução JavaScript no Servidor)
 
-. Git
-. GitHub
-. Node js
+### Outros Tópicos Estudados
 
+- Documentação de Código
+- Boas Práticas de Codificação
